@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "759023507705",
+    "firebase_url": "https://my-lens-6ff54.firebaseio.com",
+    "project_id": "my-lens-6ff54",
+    "storage_bucket": "my-lens-6ff54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759023507705:android:6b750e5698d27e99",
+        "android_client_info": {
+          "package_name": "com.example.mylens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759023507705-f6q3ofrtlsuu87du733eil3e4a900prv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8vkAzHon34OxPfST6s3zj_kJjdfX97mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759023507705-f6q3ofrtlsuu87du733eil3e4a900prv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
